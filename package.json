@@ -1,0 +1,23 @@
+{
+  "name": "Node.JS-TrainRepeta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fn": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderMykytiuk/Node.JS-TrainRepeta.git"
+  },
+  "keywords": [],
+  "author": "Alexsander Mykytiuk <alexandermykytiuk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderMykytiuk/Node.JS-TrainRepeta/issues"
+  },
+  "homepage": "https://github.com/AlexanderMykytiuk/Node.JS-TrainRepeta#readme",
+  "dependencies": {
+    "validator": "^13.1.17"
+  }
+}

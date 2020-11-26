@@ -1,3 +1,3 @@
-const message = "Node.JS is cool!";
+const greeter = require('./greeter');
 
-console.log(message);
+greeter('My name is Alexander!')
